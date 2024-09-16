@@ -28,7 +28,7 @@ This project was developed to complete the "Belajar Dasar Pemrograman Web" cours
 * **Course**: Belajar Dasar Pemrograman Web
 * **Date of Completion**: May 24, 2024
 * **Certificate ID**: ERZR114DOZYV
-* **Verification Link**: [dicoding.com/certificates/ERZR114DOZYV] (https://www.dicoding.com/certificates/ERZR114DOZYV)
+* **Verification Link**: [dicoding.com/certificates/ERZR114DOZYV](https://www.dicoding.com/certificates/ERZR114DOZYV)
 * **Valid Until**: May 24, 2027
 
 The course covered essential topics relevant to this project, including:
