@@ -11,7 +11,6 @@ A responsive and interactive website for the Mini Gym at the Faculty of Engineer
 * About Us slider
 * Team member profiles
 * FAQ section with toggle functionality
-* Separate sessions for male and female users
 * Smooth animations
 
 ## Technology Stack
