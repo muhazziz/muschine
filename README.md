@@ -24,7 +24,7 @@ A responsive and interactive website for the Mini Gym at the Faculty of Engineer
 
 This project was developed to complete the ["Belajar Dasar Pemrograman Web"](https://www.dicoding.com/academies/123-belajar-dasar-pemrograman-web) course from Dicoding Indonesia. The certification details are as follows:
 
-* **Course**: Belajar Dasar Pemrograman Web
+* **Course**: [Belajar Dasar Pemrograman Web](https://www.dicoding.com/academies/123-belajar-dasar-pemrograman-web)
 * **Date of Completion**: May 24, 2024
 * **Certificate ID**: ERZR114DOZYV
 * **Verification Link**: [dicoding.com/certificates/ERZR114DOZYV](https://www.dicoding.com/certificates/ERZR114DOZYV)
