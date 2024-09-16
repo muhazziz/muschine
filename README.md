@@ -52,12 +52,12 @@ This certification ensures that the developer has the necessary skills and knowl
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/mushcine-website.git
+   git clone https://github.com/muhazziz/Mushcine.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd mushcine-website
+   cd Muschine
    ```
 
 3. Open the `index.html` file in your web browser.
