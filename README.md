@@ -17,7 +17,7 @@ A responsive and interactive website for the Mini Gym at the Faculty of Engineer
 
 * Vanilla JavaScript
 * HTML5 & CSS3
-* Font Awesome icons for UI elements
+* Unicons for UI elements
 * Google Fonts for typography
 
 ## Developer Certification
@@ -94,4 +94,4 @@ This project is created for educational purposes as part of the Dicoding "Belaja
 * Dicoding Indonesia for providing the course, learning materials, and project guidelines
 * Universitas Muhammadiyah Jakarta for the inspiration and context of the project
 * Font Awesome for the icon library
-* Google Fonts for the typography options
+* Unicons for the typography options
