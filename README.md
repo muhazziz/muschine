@@ -15,7 +15,7 @@ A responsive and interactive website for the Mini Gym at the Faculty of Engineer
 
 ## Technology Stack
 
-* Vanilla JavaScript
+* JavaScript
 * HTML5 & CSS3
 * IconScout for UI elements
 * Google Fonts for typography
